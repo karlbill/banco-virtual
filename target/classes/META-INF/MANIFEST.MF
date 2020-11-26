@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: carlo
+Build-Jdk: 11.0.7
+Implementation-Title: nossobanco-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.zupbootcamp.nossobanco
+Implementation-URL: https://spring.io/projects/spring-boot/nossobanco-ap
+ i
+Created-By: Maven Integration for Eclipse
+
