@@ -75,13 +75,13 @@ Sistema de cadastramento de clientes em um banco virtual
 
 ## Tarefas Realizadas:
 
--[x]Etapa 1
--[x]Etapa 2
--[x]Etapa 3
--[ ]Etapa 4
-    -[x]Etapa 4.1 - Aceite realizado, envio do e-mail
-    -[ ]Etapa 4.2 - Aceite não realizado, armazenamento da proposta e envio de email para convencimento.
--[ ]Etapa 5
+- [x] Etapa 1
+- [x] Etapa 2
+- [x] Etapa 3
+- [ ] Etapa 4
+    - [x] Etapa 4.1 - Aceite realizado, envio do e-mail
+    - [ ] Etapa 4.2 - Aceite não realizado, armazenamento da proposta e envio de email para convencimento.
+- [ ] Etapa 5
 
 ** header location não preenchidos (~~microsserviços~~)**
 
