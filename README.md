@@ -83,7 +83,7 @@ Sistema de cadastramento de clientes em um banco virtual
     - [ ] Etapa 4.2 - Aceite não realizado, armazenamento da proposta e envio de email para convencimento.
 - [ ] Etapa 5
 
-** header location não preenchidos (~~microsserviços~~)**
+**header location não preenchidos (~~microsserviços~~)**
 
 
 
